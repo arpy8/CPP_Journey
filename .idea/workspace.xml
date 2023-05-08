@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39b82147-fe10-4757-955e-e894831d0d2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DSA_journey.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/.vs/CalculateDistance/FileContentIndex/2f6c6d49-acc0-44aa-ba3a-92b0c3704f5c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/.vs/CalculateDistance/FileContentIndex/read.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/.vs/CalculateDistance/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/.vs/CalculateDistance/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/.vs/CalculateDistance/v17/ipch/AutoPCH/c383c9981f43c4e5/CALCULATEDISTANCE.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/CalculateDistance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/CalculateDistance.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/CalculateDistance.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/CalculateDistance.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/CalculateDistance.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link-cvtres.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link-cvtres.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link-rc.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link-rc.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link.read.2.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/Calculat.642a1994.tlog/unsuccessfulbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/CalculateDistance.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/CalculateDistance.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/vc143.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/CalculateDistance/x64/Debug/vc143.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/CalculateDistance/x64/Debug/CalculateDistance.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVzGQXiPaSaMl4ycA8KE9Nu714" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/asus/Desktop/repos/DSA_journey"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b82147-fe10-4757-955e-e894831d0d2e" name="Changes" comment="" />
+      <created>1683556941082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683556941082</updated>
+    </task>
+    <servers />
+  </component>
+</project>
