@@ -1,0 +1,4 @@
+﻿  roots-of-quadratic-equation.cpp
+C:\Users\asus\Desktop\repos\DSA_journey\Programs\sum-of-n-natural-numbers\roots-of-quadratic-equation\roots-of-quadratic-equation\roots-of-quadratic-equation.cpp(18,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asus\Desktop\repos\DSA_journey\Programs\sum-of-n-natural-numbers\roots-of-quadratic-equation\roots-of-quadratic-equation\roots-of-quadratic-equation.cpp(19,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  roots-of-quadratic-equation.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\Programs\sum-of-n-natural-numbers\roots-of-quadratic-equation\x64\Debug\roots-of-quadratic-equation.exe

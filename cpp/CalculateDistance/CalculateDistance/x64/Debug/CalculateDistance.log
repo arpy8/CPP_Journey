@@ -1,0 +1,6 @@
+﻿  CalculateDistance.cpp
+C:\Users\asus\Desktop\repos\DSA_journey\Programs\cpp\CalculateDistance\CalculateDistance\CalculateDistance.cpp(6,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\Desktop\repos\DSA_journey\Programs\cpp\CalculateDistance\CalculateDistance\CalculateDistance.cpp(8,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\asus\Desktop\repos\DSA_journey\Programs\cpp\CalculateDistance\x64\Debug\CalculateDistance.exe : fatal error LNK1120: 1 unresolved externals
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1120.
