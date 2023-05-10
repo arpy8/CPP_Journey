@@ -1,0 +1,6 @@
+﻿  simple-calculator.cpp
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\simple-calculator\simple-calculator\simple-calculator.cpp(18,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\simple-calculator\simple-calculator\simple-calculator.cpp(19,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\simple-calculator\simple-calculator\simple-calculator.cpp(20,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\simple-calculator\simple-calculator\simple-calculator.cpp(21,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  simple-calculator.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\simple-calculator\x64\Debug\simple-calculator.exe
