@@ -1,0 +1,3 @@
+﻿  functions-adding-two-numbers.cpp
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\functions-adding-two-numbers\functions-adding-two-numbers\functions-adding-two-numbers.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  functions-adding-two-numbers.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\functions-adding-two-numbers\x64\Debug\functions-adding-two-numbers.exe
