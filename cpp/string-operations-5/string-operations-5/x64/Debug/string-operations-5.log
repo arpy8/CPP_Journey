@@ -1,3 +1,0 @@
-﻿  string-operations-5.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\string-operations-5\string-operations-5\string-operations-5.cpp(12,19): error C2440: '=': cannot convert from 'const char [2]' to 'char'
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\string-operations-5\string-operations-5\string-operations-5.cpp(12,19): message : There is no context in which this conversion is possible
