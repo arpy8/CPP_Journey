@@ -1,0 +1,3 @@
+﻿  oops-student-class.cpp
+C:\Users\asus\Desktop\repos\DSA_journey\cpp\oops-student-class\oops-student-class\oops-student-class.cpp(28,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  oops-student-class.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\oops-student-class\x64\Debug\oops-student-class.exe
