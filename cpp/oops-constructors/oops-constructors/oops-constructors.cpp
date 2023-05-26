@@ -22,6 +22,7 @@ class Rectangle
         setBreadth(b);
     }
     
+    // copy constructor 
     Rectangle(Rectangle(&rect))
     {
         length = rect.length;
