@@ -1,4 +1,0 @@
-﻿  nature-of-quadratic-roots.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\nature-of-quadratic-roots\nature-of-quadratic-roots\nature-of-quadratic-roots.cpp(16,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\nature-of-quadratic-roots\nature-of-quadratic-roots\nature-of-quadratic-roots.cpp(30,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  nature-of-quadratic-roots.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\nature-of-quadratic-roots\x64\Debug\nature-of-quadratic-roots.exe

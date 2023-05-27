@@ -1,4 +1,0 @@
-﻿  student-grades-display.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\student-grades-display\student-grades-display\student-grades-display.cpp(16,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\student-grades-display\student-grades-display\student-grades-display.cpp(7,23): warning C4101: 'total': unreferenced local variable
-  student-grades-display.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\student-grades-display\x64\Debug\student-grades-display.exe

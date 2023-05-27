@@ -1,4 +1,0 @@
-﻿  discount-offer.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\discount-offer\discount-offer\discount-offer.cpp(15,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\discount-offer\discount-offer\discount-offer.cpp(16,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  discount-offer.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\discount-offer\x64\Debug\discount-offer.exe

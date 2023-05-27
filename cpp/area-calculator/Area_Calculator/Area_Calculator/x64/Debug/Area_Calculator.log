@@ -1,3 +1,0 @@
-﻿  Area_Calculator.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\Programs\area-calculator\Area_Calculator\Area_Calculator\Area_Calculator.cpp(12,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Area_Calculator.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\Programs\area-calculator\Area_Calculator\x64\Debug\Area_Calculator.exe

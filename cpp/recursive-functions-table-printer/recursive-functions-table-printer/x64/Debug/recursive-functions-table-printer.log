@@ -1,3 +1,0 @@
-﻿  recursive-functions-table-printer.cpp
-C:\Users\asus\Desktop\repos\DSA_journey\cpp\recursive-functions-table-printer\recursive-functions-table-printer\recursive-functions-table-printer.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  recursive-functions-table-printer.vcxproj -> C:\Users\asus\Desktop\repos\DSA_journey\cpp\recursive-functions-table-printer\x64\Debug\recursive-functions-table-printer.exe
