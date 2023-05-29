@@ -19,7 +19,7 @@ The code directory contains a collection of code snippets covering various C++ c
 
 They are designed to provide a hands-on understanding of different C++ features, from basic syntax to more advanced concepts like templates and object-oriented programming.
 
-## [Project](project)
+## [Project](Project)
 In the project directory, you will find a practical projects that I have completed during my C++ journey. These project is designed to exercise and apply different aspects of the language, ranging from basic concepts to more advanced topics.
 
 ## [Personal Notes](Personal%20Notes)
